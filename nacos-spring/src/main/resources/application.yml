@@ -1,0 +1,11 @@
+server:
+  tomcat.uri-encoding: UTF-8
+  port: 8081
+
+spring:
+  application:
+    name: nacos-spring
+
+#nacos:
+  #config:
+    #server-addr: 10.100.36.168:8848
